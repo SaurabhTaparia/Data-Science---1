@@ -7,9 +7,8 @@ Test Project
 2. djdjd
 3. 
 | Name | Salary | Dept | Role |
--------------------------------
+|------|--------|------|------|
 | A | 10000 | Finance | Manager |
----------------------------------
 | B | 7000 | Admin | Assistant Manager |
 
 - Organization Salaries Data
