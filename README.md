@@ -9,6 +9,7 @@ Test Project
 | Name | Salary | Dept | Role |
 -------------------------------
 | A | 10000 | Finance | Manager |
+---------------------------------
 | B | 7000 | Admin | Assistant Manager |
 
 - Organization Salaries Data
